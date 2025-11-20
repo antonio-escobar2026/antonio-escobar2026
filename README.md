@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome! 
 
 <!--
 **antonio-escobar2026/antonio-escobar2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, my name is Antonio Escobar. I'm currently studying at The University of Texas at Dallas. 
+
+I'm currently going through DSA, Unix Programming, and Statistics and have garnered a new appreciation for all of those subjects. 
+My biggest interest as of right now is Statistics and Unix Programming. 
+
+🔭 I’m currently working on the inner workings of a terminal-based text editor by studying kilo.
+🌱 I’m currently learning threads, pipes, and forks using C. 
+
